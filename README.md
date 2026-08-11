@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ayoub-Gouiaa&backgroundColor=b6e3f4" width="150" alt="Ayoub Gouiaa avatar"/>
+<img src="[https://api.dicebear.com/9.x/adventurer/svg?seed=Ayoub-Gouiaa&backgroundColor=b6e3f4](https://github.com/AyoubGouiaa/Certifications/blob/main/488909862_1062533539253558_1272394927982114121_n2.jpg)" width="150" alt="Ayoub Gouiaa avatar"/>
 
 # 👋 Hey, I'm Ayoub Gouiaa
 
