@@ -135,7 +135,7 @@ I also have experience in:
 </p>
 
 
-### 🧪 Testing & Automation
+###  Testing & Automation
 
 <p align="left">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1758794387478/b9d5969d-f7b3-4744-aa4c-a09593cad6c9.png" height="60" alt="Playwright"/>
