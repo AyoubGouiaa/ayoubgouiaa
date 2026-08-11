@@ -138,7 +138,7 @@ I also have experience in:
 
 ### 🧪 Testing & Automation
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1758794387478/b9d5969d-f7b3-4744-aa4c-a09593cad6c9.png" height="60" alt="Playwright"/>
   <img src="https://avatars.githubusercontent.com/u/320565?v=4" height="60" alt="Cucumber.js"/>
 </p>
