@@ -143,7 +143,6 @@ I also have experience in:
   <img src="https://avatars.githubusercontent.com/u/320565?v=4" height="60" alt="Cucumber.js"/>
 </p>
 
-**Cucumber.js • Gherkin • Page Object Model**
 
 ### Tools & Platforms
 
