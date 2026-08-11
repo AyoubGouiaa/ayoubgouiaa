@@ -193,7 +193,7 @@ Modernized and stabilized an automated testing framework using Playwright, Cucum
 
 <div align="center">
 
-[![Ayoub's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubgouiaa&theme=github-compact&hide_border=true&area=true&custom_title=My%20Coding%20Activity)](https://github.com/ayoubgouiaa)
+[![Ayoub's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyoubGouiaa&theme=github-compact&hide_border=true&area=true&custom_title=My%20Coding%20Activity)](https://github.com/ayoubgouiaa)
 
 </div>
 
