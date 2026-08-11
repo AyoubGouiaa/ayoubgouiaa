@@ -23,7 +23,7 @@
 
 ---
 
-## 🧬 About Me
+## 🙌 About Me
 
 I'm a **Computer Science student at ISITCom**, ranked **#1 across the institute**, with a strong interest in building software, solving problems, and continuously exploring new technologies.
 
@@ -136,8 +136,11 @@ I also have experience in:
 
 ### Testing & Automation
 
-<p>
-<img src="https://skillicons.dev/icons?i=playwright" />
+### 🧪 Testing & Automation
+
+<p align="center">
+  <img src="[YOUR_PLAYWRIGHT_IMAGE_URL](https://cdn.hashnode.com/res/hashnode/image/upload/v1758794387478/b9d5969d-f7b3-4744-aa4c-a09593cad6c9.png)" height="60" alt="Playwright"/>
+  <img src="[YOUR_CUCUMBER_IMAGE_URL](https://avatars.githubusercontent.com/u/320565?v=4)" height="60" alt="Cucumber.js"/>
 </p>
 
 **Cucumber.js • Gherkin • Page Object Model**
