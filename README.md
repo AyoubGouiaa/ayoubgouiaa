@@ -189,13 +189,11 @@ Modernized and stabilized an automated testing framework using Playwright, Cucum
 
 ---
 
-# 📊 GitHub Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayoubgouiaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgouiaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+[![Ayoub's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubgouiaa&theme=github-compact&hide_border=true&area=true&custom_title=My%20Coding%20Activity)](https://github.com/ayoubgouiaa)
 
 </div>
 
