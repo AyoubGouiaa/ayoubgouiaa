@@ -1,50 +1,43 @@
 name: Update GitHub Activity Graph
 
 on:
-  schedule:
-    - cron: "0 3 * * 1"
+  push:
+    branches:
+      - main
 
   workflow_dispatch:
+
+  schedule:
+    - cron: "0 3 * * 1"
 
 permissions:
   contents: write
 
 jobs:
-
-  generate:
-
+  generate-activity-graph:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate monthly activity graph
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GITHUB_USERNAME: ayoubgouiaa
         run: |
-          python scripts/generate_activity.py
+          python scripts/generate_activity_graph.py
 
-      - name: Commit graph
+      - name: Commit generated graph
         run: |
-
           git config user.name "github-actions[bot]"
-
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add assets/github-activity.svg
 
           if git diff --cached --quiet; then
-            echo "No changes."
-
+            echo "No changes to commit."
           else
-
-            git commit \
-              -m "chore: update GitHub activity graph"
-
+            git commit -m "chore: update GitHub activity graph"
             git push
-
           fi
