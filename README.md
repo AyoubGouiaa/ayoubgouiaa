@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/AyoubGouiaa/Certifications/blob/main/488909862_1062533539253558_1272394927982114121_n2.jpg" width="220" alt="Ayoub Gouiaa avatar"/>
+<img src="https://github.com/AyoubGouiaa/Certifications/blob/main/488909862_1062533539253558_1272394927982114121_n2.jpg" width="240" alt="Ayoub Gouiaa avatar"/>
 
 # 👋 Hey, I'm Ayoub Gouiaa
 
