@@ -134,7 +134,6 @@ I also have experience in:
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
 </p>
 
-### Testing & Automation
 
 ### 🧪 Testing & Automation
 
