@@ -1,6 +1,6 @@
 <!-- ===================== LANGUAGE SWITCHER ===================== -->
 
-<div align="right">
+<div align="center">
 
 🌐 <strong>Language:</strong>&nbsp;
 <img src="https://img.shields.io/badge/🇬🇧%20English-1F6FEB?style=for-the-badge" height="28" alt="English - Current Language"/>
@@ -10,6 +10,9 @@
 </a>
 
 </div>
+
+
+<br>
 
 <!-- ===================== HEADER ===================== -->
 
