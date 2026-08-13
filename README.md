@@ -1,47 +1,27 @@
 <!-- ===================== LANGUAGE ===================== -->
 
-<p align="right">
+<p align="center">
   🇬🇧 <strong>English</strong> &nbsp;|&nbsp;
   <a href="./README.fr.md">🇫🇷 Français</a>
 </p>
 
 <!-- ===================== HEADER ===================== -->
 
-<table>
-<tr>
-<td width="260" align="center" valign="middle">
+<div align="center">
 
-<img src="https://github.com/AyoubGouiaa/Certifications/blob/main/488909862_1062533539253558_1272394927982114121_n2.jpg" width="220" alt="Ayoub Gouiaa avatar"/>
-
-</td>
-
-<td align="left" valign="middle">
+<img src="488909862_1062533539253558_1272394927982114121_n2.jpg" width="240" alt="Ayoub Gouiaa avatar"/>
 
 # 👋 Hey, I'm Ayoub Gouiaa
 
 ### Full-Stack Developer • Test Automation Engineer • AI Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=false&vCenter=true&width=600&lines=Building+things+that+actually+work;Full-Stack+Developer;Test+Automation+Engineer;AI+%26+Modern+Web+Explorer;Computer+Science+Student;Always+learning.+Always+building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work;Full-Stack+Developer;Test+Automation+Engineer;AI+%26+Modern+Web+Explorer;Computer+Science+Student;Always+learning.+Always+building." alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ayoub-gouiaa">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/ayoub-gouiaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:ayoubgouiaa.etudiant@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="mailto:ayoubgouiaa.etudiant@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/ayoubgouiaa?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub followers"/>
-
-<img src="https://komarev.com/ghpvc/?username=ayoubgouiaa&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
