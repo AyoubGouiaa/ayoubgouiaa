@@ -20,7 +20,7 @@
 
 <img src="https://github.com/AyoubGouiaa/Certifications/blob/main/488909862_1062533539253558_1272394927982114121_n2.jpg" width="240" alt="Ayoub Gouiaa avatar"/>
 
-# 👋 Hey, I'm Ayoub Gouiaa
+<h1 align="center"><b>Hey , I'm Auoub Gouiaa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### Full-Stack Developer • Test Automation Engineer • AI Explorer
 
