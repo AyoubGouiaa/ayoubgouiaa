@@ -1,8 +1,19 @@
-<!-- ===================== LANGUAGE ===================== -->
+<!-- ===================== LANGUAGE SWITCHER ===================== -->
 
-<p align="center">
-  🇬🇧 <strong>English</strong> &nbsp;|&nbsp;
-  <a href="./README.fr.md">🇫🇷 Français</a>
+<p align="right">
+  <strong>🌐 Language:</strong>&nbsp;&nbsp;
+
+  <img
+    src="https://img.shields.io/badge/🇬🇧%20English-1F6FEB?style=for-the-badge"
+    alt="English - Current Language"
+  />
+
+  <a href="./README.fr.md">
+    <img
+      src="https://img.shields.io/badge/🇫🇷%20Français-30363D?style=for-the-badge"
+      alt="Français - Switch Language"
+    />
+  </a>
 </p>
 
 <!-- ===================== HEADER ===================== -->
