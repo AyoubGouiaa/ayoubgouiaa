@@ -248,7 +248,7 @@ font-family="Arial, sans-serif"
 font-size="18"
 font-weight="700">
 
-GitHub Activity — Last 12 Months
+GitHub Activity : Last 12 Months
 
 </text>
 """
