@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="488909862_1062533539253558_1272394927982114121_n2.jpg" width="240" alt="Ayoub Gouiaa avatar"/>
+<img src="https://github.com/AyoubGouiaa/Certifications/blob/main/488909862_1062533539253558_1272394927982114121_n2.jpg" width="240" alt="Ayoub Gouiaa avatar"/>
 
 # 👋 Hey, I'm Ayoub Gouiaa
 
@@ -20,6 +20,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/ayoub-gouiaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:ayoubgouiaa.etudiant@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=ayoubgouiaa&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
